@@ -1,3 +1,3 @@
 # Java-Projects
 
-Java Project made during college days
+Java Project made during college days . Notepad made with Java
